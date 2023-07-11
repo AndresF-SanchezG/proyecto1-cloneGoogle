@@ -8,3 +8,4 @@ This project is a replica of the main page of google without functionality.
 # Author
 
 - Tutor: Diego De Granda [@degranda10](https://twitter.com/degranda10?t=hnoz6IUoxadjVEQux9Zzdw&s=09)
+- Github - [@AndresF-SanchezG](https://github.com/AndresF-SanchezG)
