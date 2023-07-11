@@ -7,4 +7,4 @@ This project is a replica of the main page of google without functionality.
 
 # Author
 
-- Tutor: Diego De Granda [@degranda10]
+- Tutor: Diego De Granda [@degranda10](https://www.twitter.com/gusanchedev)
