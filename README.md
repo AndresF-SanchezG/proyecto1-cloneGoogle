@@ -1,4 +1,4 @@
 # Google Clone
-This project is a replica of the google home page.
+This project is a replica of the main page of google without functionality.
 
 ## Overview
