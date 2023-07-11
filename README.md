@@ -1,5 +1,6 @@
 # Google Clone
-This project is a replica of the main page of google without functionality.
+
+A clone of the Google page will be created and I will put my knowledge of CSS and HTML into practice.
 
 # Screenshot
 
