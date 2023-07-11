@@ -11,5 +11,8 @@ This project is a replica of the main page of google without functionality.
 
 # Author
 
-- Tutor: Diego De Granda [@degranda10](https://twitter.com/degranda10?t=hnoz6IUoxadjVEQux9Zzdw&s=09)
+- Tutor - Diego De Granda [@degranda10](https://twitter.com/degranda10?t=hnoz6IUoxadjVEQux9Zzdw&s=09)
+- School - [@platzi](www.platzi.com)
+- Curse - [@Curso Práctico de HTML y CSS](https://platzi.com/cursos/html-practico/)
 - Github - [@AndresF-SanchezG](https://github.com/AndresF-SanchezG)
+
